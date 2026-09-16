@@ -144,10 +144,11 @@ D = 1 + 2λ/μ + 2λ_tr/μ_tr + 2λ λ_tr/(μ μ_tr) + 2λη/μ_failover + 2λ/�
 **Стационарный коэффициент готовности:**
 Kг,ст = P2 + P1 = P2 (1 + 2λ/μ) = (1 + 2λ/μ) / D.
 
-**Unicode:**
+**Unicode:**  
 Kг,ст = (1 + 2λ/μ) / D
 
 **LaTeX:**
+
 $$
 K_{\mathrm{г,ст}} = \frac{1 + \frac{2\lambda}{\mu}}{D}
 $$
@@ -242,15 +243,17 @@ Kг,ст = P2 + P1 = 0.9983664140 + 0.001597386262 = **0.9999638003**
 
 ### Основные формулы
 
-**Unicode:**
+**Unicode:**  
 Kг,ст = (1 + 2λ/μ) / D
 
 **LaTeX:**
+
 $$
 K_{\mathrm{г,ст}} = \frac{1 + \frac{2\lambda}{\mu}}{D}
 $$
 
 где
+
 $$
 D = 1 + \frac{2\lambda}{\mu} + \frac{2\lambda_{tr}}{\mu_{tr}} + \frac{2\lambda\lambda_{tr}}{\mu\mu_{tr}} + \frac{2\lambda\eta}{\mu_{failover}} + \frac{2\lambda}{\mu_{failback}} + \frac{2\lambda(1-\eta)}{\theta}\left(1+\frac{\lambda}{\mu}\right) + \frac{2\lambda}{\mu}\left[(1-\eta)+\frac{\lambda}{\mu}\right]
 $$
