@@ -1,4 +1,4 @@
-report12_cum.md
+report12_cum_deepseek.md
 
 Кумулятивный промпт на основе prompt8_full.md и ответ 
 
