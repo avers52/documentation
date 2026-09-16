@@ -1,27 +1,17 @@
 Файлы для статьи [Промпт-инжиниринг для моделей надежности отказоустойчивого кластера](https://habr.com/ru/articles/1082196/):
 
 - Модель 3/2:
-
--- промпт полный prompt3_full.md
-
--- результат report3_full.md
-
+  - промпт полный prompt3_full.md
+  -результат report3_full.md
 - Модель 8/2:
-
--- промпт полный prompt8_full.md
-
--- результат report8_full.md
-
--- результат (deepseek) report8_full_deepseek.md
-
+  - промпт полный prompt8_full.md
+  - результат report8_full.md
+  - результат (deepseek) report8_full_deepseek.md
+  - расхождение результатов report8_full_vs_report8_full_deepseek.md
 - Модель 12/3:
-
--- промпт полный prompt12_full.md
-
--- результат report12_full.md
-
--- промпт кумулятивный и результат (deepseek) report12_cum_deepseek.md 
-
+  - промпт полный prompt12_full.md
+  - результат report12_full.md
+  - промпт кумулятивный и результат (deepseek) report12_cum_deepseek.md
+  - расхождение результатов report12_full_vs_report12_cum_deepseek.md 
 - Анализ 
-
--- Анализ Кг и феномена analysis.md
+  - Анализ Кг и феномена analysis.md
