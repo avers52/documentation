@@ -2,7 +2,7 @@
 
 - Модель 3/2:
   - промпт полный `prompt3_full.md`
-  -результат `report3_full.md`
+  - результат `report3_full.md`
 - Модель 8/2:
   - промпт полный `prompt8_full.md`
   - результат `report8_full.md`
